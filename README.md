@@ -53,7 +53,7 @@
   <tr>
     <td>🤖 Machine Learning & Deep Learning</td>
     <td>
-      <img src="https://img.shields.io/badge/Scikit-learn-15ce77?style=plastic&logo=scikit-learn&logoColor=%23ffffff" />
+      <img src="https://img.shields.io/badge/Scikit%20learn-15ce77?style=plastic&logo=scikit-learn&logoColor=%23ffffff" />
       <img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-15ce77?style=plastic&logo=tensorflow&logoColor=%23ffffff" />
     </td>
   </tr>
