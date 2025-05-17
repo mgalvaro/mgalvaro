@@ -147,7 +147,7 @@
       </p>
     </td>
 
-    <td width="50%" align="left" valign="top">
+  <td width="50%" align="left" valign="top">
       <p>
         Functional interactive dashboard in Streamlit to monitor and analyze real-time and historical data from the 
         <strong>Spanish Electric Grid</strong> through the official API provided by Red Eléctrica de España (REE). 
@@ -160,7 +160,7 @@
         <li>International energy exchanges</li>
         <li>Forecasting of future demand</li>
       </ul>
-    </td>
+  </td>
   </tr>
 
 </table>
