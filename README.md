@@ -129,44 +129,41 @@
 
 ## Featured projects
 
-<table>
+<table width="100%" border="0" cellspacing="10">
 
-<tr>
-<h3 align="center">Spanish Electric Network Data Analysis and Energy Demand Prediction</h3>
-</tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>Spanish Electric Network Data Analysis and Energy Demand Prediction</h3>
+    </td>
+  </tr>
 
-<tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="screenshot-app-streamlit-ree.png" width="500" alt="Spanish Electric Grid">
+      <p>
+        <img alt="Details REE" src="https://img.shields.io/badge/Details-%23ff7474?style=for-the-badge&link=https%3A%2F%2Falvarodsci.wixsite.com%2Falvaro-mejia%2Fpost%2Fenergy-insights-dashboard-visualizing-the-spanish-electric-grid">
+        <img alt="YT REE" src="https://img.shields.io/badge/YouTube-%23ff0000?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fyoutu.be%2FC655JYUN52M">
+        <img alt="GH REE" src="https://img.shields.io/badge/Code-%23a30000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmgalvaro%2FPFB_red_electrica">
+      </p>
+    </td>
 
-<td width="50%">
-<div align="center">
-<img src="screenshot-app-streamlit-ree.png" width="500" alt="Spanish Electric Grid"></a>
-<p>
-<img alt="Details REE" src="https://img.shields.io/badge/Details-%23ff7474?style=for-the-badge&link=https%3A%2F%2Falvarodsci.wixsite.com%2Falvaro-mejia%2Fpost%2Fenergy-insights-dashboard-visualizing-the-spanish-electric-grid">
-<img alt="YT REE" src="https://img.shields.io/badge/YouTube-%23ff0000?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fyoutu.be%2FC655JYUN52M">
-<img alt="GH REE" src="https://img.shields.io/badge/Code-%23a30000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmgalvaro%2FPFB_red_electrica">
-</p>
-</div>                                                                                   
-</td>
+    <td width="50%" align="left" valign="top">
+      <p>
+        Functional interactive dashboard in Streamlit to monitor and analyze real-time and historical data from the 
+        <strong>Spanish Electric Grid</strong> through the official API provided by Red Eléctrica de España (REE). 
+        This app provides insights into:
+      </p>
+      <ul>
+        <li>Electricity demand</li>
+        <li>Energy generation by source</li>
+        <li>Energy balance</li>
+        <li>International energy exchanges</li>
+        <li>Forecasting of future demand</li>
+      </ul>
+    </td>
+  </tr>
 
-<td width="50%">
-<br>
-<div align="left">                                       
-<p>
-Functional interactive dashboard in Streamlit to monitor and analyze real-time and historical data from the <strong>Spanish Electric Grid</strong> 
-through the offical API provided by Red Eleéctrica de España (REE). This app provides insights into:
-<ul>
-  <li>Electricity demand</li>
-  <li>Energy generation by source</li>
-  <li>Energy balance</li>
-  <li>International energy exchanges</li>
-  <li>Forecasting of future demand</li>
-</ul>
-
-</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+</table>
 
 <!--
 **mgalvaro/mgalvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
