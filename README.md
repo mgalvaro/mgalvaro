@@ -124,7 +124,49 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falvaro-mejia-garcia%2F)
 ![My site](https://img.shields.io/badge/%F0%9F%8C%90-My%20site-44d6ac?style=plastic&cacheSeconds=https%3A%2F%2Falvarodsci.wixsite.com%2Falvaro-mejia)
 
+<br>
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
 
+## Featured projects
+
+<table>
+
+<tr>
+<h3 align="center">Spanish Electric Network Data Analysis and Energy Demand Prediction</h3>
+</tr>
+
+<tr>
+
+<td width="50%">
+<div align="center">
+<img src="screeshot-app-streamlit-ree.png" width="500" alt="Spanish Electric Grid"></a>
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/Details-%23ff7474?style=for-the-badge&link=https%3A%2F%2Falvarodsci.wixsite.com%2Falvaro-mejia%2Fpost%2Fenergy-insights-dashboard-visualizing-the-spanish-electric-grid">
+<img alt="YT REE" src="https://img.shields.io/badge/YouTube-%23ff0000?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fyoutu.be%2FC655JYUN52M">
+<img alt="GH REE" src="https://img.shields.io/badge/Code-%23a30000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmgalvaro%2FPFB_red_electrica">
+</p>
+</div>                                                                                   
+</td>
+
+<td width="50%">
+<br>
+<div align="left">                                       
+<p>
+Functional interactive dashboard in Streamlit to monitor and analyze real-time and historical data from the <strong>Spanish Electric Grid</strong> 
+through the offical API provided by Red Eleéctrica de España (REE). This app provides insights into:
+<ul>
+  <li>Electricity demand</li>
+  <li>Energy generation by source</li>
+  <li>Energy balance</li>
+  <li>International energy exchanges</li>
+  <li>Forecasting of future demand</li>
+</ul>
+
+</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
 <!--
 **mgalvaro/mgalvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
