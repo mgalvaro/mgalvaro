@@ -5,13 +5,14 @@
 
 ## 🤓 About me
 
-- ✈️ I've studied Aerospace Engineering. I'm from Spain, but living in Poland.
+- ✈️ I've studied Aerospace Engineering. I'm from Spain, but living and working in Poland.
 - 📚 I'm currently diving into the Data Science and AI world.
 - 🐍 Programing in Python and using SQL.
 - 📝 Collecting data from databases and using web scraping.
 - 🔧 Performing Feature Engineering on data
 - 📊 Building Dashboards and Data Visualizations with Streamlit.
 - 🧠 Developing Machine Learning models & Neural Networks.
+- ⚡ Harry Potter fan, 🤘 metalhead and 🐈🐈‍⬛ cat dad.
 
 <br>
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
