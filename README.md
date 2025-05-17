@@ -139,9 +139,9 @@
 
 <td width="50%">
 <div align="center">
-<img src="screeshot-app-streamlit-ree.png" width="500" alt="Spanish Electric Grid"></a>
+<img src="screenshot-app-streamlit-ree.png" width="500" alt="Spanish Electric Grid"></a>
 <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/Details-%23ff7474?style=for-the-badge&link=https%3A%2F%2Falvarodsci.wixsite.com%2Falvaro-mejia%2Fpost%2Fenergy-insights-dashboard-visualizing-the-spanish-electric-grid">
+<img alt="Details REE" src="https://img.shields.io/badge/Details-%23ff7474?style=for-the-badge&link=https%3A%2F%2Falvarodsci.wixsite.com%2Falvaro-mejia%2Fpost%2Fenergy-insights-dashboard-visualizing-the-spanish-electric-grid">
 <img alt="YT REE" src="https://img.shields.io/badge/YouTube-%23ff0000?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fyoutu.be%2FC655JYUN52M">
 <img alt="GH REE" src="https://img.shields.io/badge/Code-%23a30000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmgalvaro%2FPFB_red_electrica">
 </p>
