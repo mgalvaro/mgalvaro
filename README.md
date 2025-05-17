@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://linktr.ee/mgalvaro">Álvaro</a> 👋</h1>
 </div>
-<img src="banner-mgalvaro.jpg">
+<img src="banner-mgalvaro.png">
 
 ## 🤓 About me
 
