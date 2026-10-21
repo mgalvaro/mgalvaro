@@ -119,10 +119,12 @@
 
 ## 🔗 Let's connect
 
-![Youtube](https://img.shields.io/badge/YouTube-%23dc0909?style=plastic&logo=youtube&logoColor=%23ffffff&link=https%3A%2F%2Fwww.youtube.com%2F%40mgalvaro)
-![GitHub](https://img.shields.io/badge/Github-%23181717?style=plastic&logo=github&logoColor=%23ffffff&link=https%3A%2F%2Fgithub.com%2Fmgalvaro)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falvaro-mejia-garcia%2F)
-![My site](https://img.shields.io/badge/%F0%9F%8C%90-My%20site-44d6ac?style=plastic&cacheSeconds=https%3A%2F%2Falvarodsci.wixsite.com%2Falvaro-mejia)
+
+[![Youtube](https://img.shields.io/badge/YouTube-%23dc0909?style=plastic&logo=youtube&logoColor=%23ffffff)](https://www.youtube.com/@mgalvaro)
+[![GitHub](https://img.shields.io/badge/Github-%23181717?style=plastic&logo=github&logoColor=%23ffffff)](https://github.com/mgalvaro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=%23ffffff)](https://www.linkedin.com/in/alvaro-mejia-garcia/)
+[![My site](https://img.shields.io/badge/%F0%9F%8C%90-My%20site-44d6ac?style=plastic)](https://mgalvaro.github.io/)
+
 
 <br>
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
