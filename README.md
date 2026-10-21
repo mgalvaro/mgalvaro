@@ -141,9 +141,15 @@
     <td width="50%" align="center">
       <img src="screenshot-app-streamlit-ree.png" width="500" alt="Spanish Electric Grid">
       <p>
-        <img alt="Details REE" src="https://img.shields.io/badge/Details-%23ff7474?style=for-the-badge&link=https://mgalvaro.github.io/projects/spanish-electrical-grid.html">
-        <img alt="YT REE" src="https://img.shields.io/badge/YouTube-%23ff0000?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fyoutu.be%2FC655JYUN52M">
-        <img alt="GH REE" src="https://img.shields.io/badge/Code-%23a30000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fmgalvaro%2FPFB_red_electrica">
+        <a href="https://mgalvaro.github.io/projects/spanish-electrical-grid.html" target="_blank" rel="noopener noreferrer">
+            <img alt="Details REE" src="https://img.shields.io/badge/Details-%23ff7474?style=for-the-badge">
+        </a>
+        <a href="https://www.youtube.com/watch?v=C655JYUN52M" target="_blank" rel="noopener noreferrer">
+            <img alt="YT REE" src="https://img.shields.io/badge/YouTube-%23ff0000?style=for-the-badge&logo=youtube">
+        </a>
+        <a href="https://github.com/mgalvaro/PFB_red_electrica" target="_blank" rel="noopener noreferrer">
+            <img alt="GH REE" src="https://img.shields.io/badge/Code-%23a30000?style=for-the-badge&logo=github">
+        </a>
       </p>
     </td>
 
