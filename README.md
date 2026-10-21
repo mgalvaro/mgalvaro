@@ -12,7 +12,7 @@
 - 🔧 Performing Feature Engineering on data
 - 📊 Building Dashboards and Data Visualizations with Streamlit.
 - 🧠 Developing Machine Learning models & Neural Networks.
-- ⚡ Harry Potter fan, 🤘 metalhead and 🐈🐈‍⬛ cat dad.
+- ⚡ Harry Potter fan, 🤘 metalhead, 🐈🐈‍⬛ cat dad and 👧🏼 Dad.
 
 <br>
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
