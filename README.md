@@ -26,9 +26,10 @@
     <td>Languages</td>
     <td>
       <img src="https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=python&logoColor=%23ffffff" />
-      <img src="https://img.shields.io/badge/SQL-%233776AB?style=plastic&logo=sql&logoColor=%23ffffff" />
+      <img src="https://img.shields.io/badge/SQL-%233776AB?style=plastic&logo=mysql&logoColor=%23ffffff" />
       <img src="https://img.shields.io/badge/Matlab-%233776AB?style=plastic&logo=matlab&logoColor=%23ffffff" />
-      <img src="https://img.shields.io/badge/HTML-3776AB?style=plastic&logo=html&logoColor=%23ffffff" />
+      <img src="https://img.shields.io/badge/HTML-3776AB?style=plastic&logo=html5&logoColor=%23ffffff" />
+      <img src="https://img.shields.io/badge/Visual Basic-3776AB?style=plastic&logo=vba&logoColor=%23ffffff" />
     </td>
   </tr>
 </table>
