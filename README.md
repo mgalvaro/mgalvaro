@@ -120,14 +120,12 @@
 
 ## 🔗 Let's connect
 
-
 [![Youtube](https://img.shields.io/badge/YouTube-%23dc0909?style=plastic&logo=youtube&logoColor=%23ffffff)](https://www.youtube.com/@mgalvaro)
 [![GitHub](https://img.shields.io/badge/Github-%23181717?style=plastic&logo=github&logoColor=%23ffffff)](https://github.com/mgalvaro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=%23ffffff)](https://www.linkedin.com/in/alvaro-mejia-garcia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-mejia-garcia/)
 [![My site](https://img.shields.io/badge/My%20site-F28AB8?style=flat&logo=firefoxbrowser&logoColor=white)](https://mgalvaro.github.io/)
 
 
-<br>
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 ## Featured projects
